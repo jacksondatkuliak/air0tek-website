@@ -1,3 +1,9 @@
+.image {
+    background-image: url('./images/cloud.png');
+    background-size: cover;
+    height: 800px;
+    width: 1100px;
+  }
 .test {
     color: red;
     padding-top: 100px;
