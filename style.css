@@ -1,9 +1,9 @@
 .image {
     background-image: url('./images/cloud.png');
     background-size: cover;
-    height: 360px;
-    width: 1050px;
-    margin-left: 720px;
+    height: 260px;
+    width: 750px;
+    margin-left: 880px;
     background-position: center;
   }
 .test {
@@ -12,4 +12,8 @@
     width: 100%;
     font-family: cursive;
     text-align: center;
+}
+
+.button {
+  
 }
