@@ -2,6 +2,16 @@ div {
   background: gray;
 }
 
+html , body {
+  margin: 0px;
+  border: 0px;
+  padding-top: 0px;
+}
+
+header {
+  margin-top: 100px;
+}
+
 h1 {
   text-align: center;
 }
