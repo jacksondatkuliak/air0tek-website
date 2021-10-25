@@ -1,17 +1,24 @@
-div {
-  background: gray;
+body {
+  margin: 0 auto;
+  background-color: grey;
 }
 
 
 header {
-  margin-top: 100px;
+  background-color: white;
+  margin-top: 0px;
 }
 
 h1 {
   text-align: center;
 }
 
-.image {
+.style {
+  font-size: 40px;
+  color: aquamarine;
+}
+
+.cloud {
     background-image: url('./images/cloud.png');
     background-size: cover;
     height: 260px;
@@ -19,6 +26,23 @@ h1 {
     margin-left: 880px;
     background-position: center;
   }
+
+  .instagram {
+    background-image: url('./images/instagram_PNG15.png');
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+    background-position: center;
+  }
+
+  .youtube {
+    background-image: url('./images/youtube_PNG8.png');
+    background-size: cover;
+    height: 75px;
+    width: 75px;
+    background-position: center;
+  }
+
 .test {
     color: red;
     padding-top: 100px;
@@ -40,6 +64,10 @@ h2 {
 }
 
 .button:hover {
-  background: rgb(41, 235, 23);
+  background: rgb(18, 176, 224);
   color: rgb(0, 2, 1);
+}
+
+.welcome {
+  background-color: white;
 }
