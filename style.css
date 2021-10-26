@@ -18,7 +18,8 @@ h1 {
 
 .style {
   font-size: 55px;
-  color: aquamarine;
+  color: rgb(9, 238, 123);
+  margin-top: auto;
 }
 
 .cloud {
