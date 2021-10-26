@@ -1,12 +1,15 @@
 body {
   margin: 0 auto;
-  background-color: grey;
+  background-color: rgb(69, 69, 69);
 }
 
 
 header {
-  background-color: rgb(0, 0, 0);
-  margin-top: 0px;
+  position: sticky;
+  top:0;
+  padding:20px;
+  background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -14,7 +17,7 @@ h1 {
 }
 
 .style {
-  font-size: 40px;
+  font-size: 55px;
   color: aquamarine;
 }
 
@@ -45,7 +48,7 @@ h1 {
 
 .test {
     color: red;
-    padding-top: 100px;
+    padding-top: 5000px;
     width: 100%;
     font-family: cursive;
     text-align: center;
