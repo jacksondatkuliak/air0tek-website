@@ -18,7 +18,7 @@ h1 {
 
 .style {
   font-size: 55px;
-  color: rgb(9, 238, 123);
+  color: rgb(144, 107, 166);
   margin-top: auto;
 }
 
@@ -45,7 +45,6 @@ h1 {
     height: 75px;
     width: 75px;
     background-position: center;
-    padding-top: 5000px;
   }
 
 .test {
@@ -71,7 +70,7 @@ h2 {
 }
 
 .button:hover {
-  color: rgb(9, 238, 123);
+  color: rgb(127, 201, 153);
 }
 
 .welcome {
