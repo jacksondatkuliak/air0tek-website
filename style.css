@@ -23,36 +23,50 @@ h1 {
 }
 
 .cloud {
-    background-image: url('./images/cloud.png');
-    background-size: cover;
-    height: 260px;
-    width: 750px;
-    margin-left: 880px;
-    background-position: center;
-  }
+  background-image: url('./images/cloud.png');
+  background-size: cover;
+  height: 260px;
+  width: 750px;
+  margin-left: 880px;
+  background-position: center;
+}
 
-  .instagram {
-    background-image: url('./images/instagram_PNG15.png');
-    background-size: cover;
-    height: 75px;
-    width: 75px;
-    background-position: center;
-  }
+.instagram {
+  background-image: url('./images/R.png');
+  background-size: cover;
+  height: 150px;
+  width: 150px;
+  background-position: center;
+  float: left;
+}
 
-  .youtube {
-    background-image: url('./images/youtube_PNG8.png');
-    background-size: cover;
-    height: 75px;
-    width: 75px;
-    background-position: center;
-  }
+.youtube {
+  background-image: url('./images/yt.png');
+  background-size: cover;
+  height: 150px;
+  width: 150px;
+  background-position: center;
+  float: left;
+}
+
+.twitter {
+  background-image: url('./images/T.png');
+  background-size: cover;
+  height: 150px;
+  width: 150px;
+  background-position: center;
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .test {
-    color: red;
-    padding-top: 5000px;
-    width: 100%;
-    font-family: cursive;
-    text-align: center;
+  color: red;
+  padding-top: 5000px;
+  width: 100%;
+  font-family: cursive;
+  text-align: center;
 }
 
 h2 {
@@ -75,4 +89,7 @@ h2 {
 
 .welcome {
   background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
