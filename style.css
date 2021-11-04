@@ -27,7 +27,8 @@ h1 {
   background-size: cover;
   height: 260px;
   width: 750px;
-  margin-left: 880px;
+  margin-left: auto;
+  margin-right: auto;
   background-position: center;
 }
 
