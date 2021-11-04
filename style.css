@@ -3,13 +3,29 @@ body {
   background-color: rgb(69, 69, 69);
 }
 
-
 header {
   position: sticky;
   top:0;
   padding:20px;
   background-color: black;
   text-align: center;
+}
+
+.quote {
+  background-color: rgb(69, 69, 69);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quotetext {
+  color: white;
+  font-size: 30px;
+  font-style: italic;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
@@ -20,6 +36,15 @@ h1 {
   font-size: 55px;
   color: rgb(144, 107, 166);
   margin-top: auto;
+}
+
+.maintextfrontpage {
+  font-size: 100px;
+  color: rgb(144, 107, 166);
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .cloud {
