@@ -11,9 +11,11 @@
 </head>
 
 <body>
-    <h1 id="cloud" class='cloud' href="./index.html" title="Air0Tek"></h1>
     <header>
-        <h2>
+        <div id="topheader" class="topheader">
+            <h1 id="cloud" class='cloud' href="./index.html" title="Air0Tek"></h1>
+        </div>
+            <h2>
             <a href="./index.html" class='button'>Home</a>
             <a href="./about.html" class='button'>About</a>
             <a href="./projects.html" class='button'>Projects</a>
@@ -41,10 +43,12 @@
         window.onscroll = function() {scrollFunction()};
         
         function scrollFunction() {
-          if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-            document.getElementById("cloud").style.height = "100px";
+          if (document.body.scrollTop > 50  || document.documentElement.scrollTop > 50) {
+            document.getElementById("cloud").style.height = "65px";
+            document.getElementById("cloud").style.width = "187.5px";
           } else {
             document.getElementById("cloud").style.height = "260px";
+            document.getElementById("cloud").style.width = "750px";
           }
         }
         </script>
