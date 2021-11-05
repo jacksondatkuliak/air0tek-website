@@ -100,7 +100,7 @@ h2 {
 }
 
 .button {
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family:'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
   color: aliceblue;
   height: 25px;
   width: 50px;
