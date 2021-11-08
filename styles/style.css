@@ -52,7 +52,7 @@ h1 {
 }
 
 .cloud {
-  background-image: url('./images/cloud.png');
+  background-image: url('../images/cloud.png');
   background-size: cover;
   height: 260px;
   width: 750px;
@@ -62,7 +62,7 @@ h1 {
 }
 
 .instagram {
-  background-image: url('./images/R.png');
+  background-image: url('../images/R.png');
   background-size: cover;
   height: 150px;
   width: 150px;
@@ -71,7 +71,7 @@ h1 {
 }
 
 .youtube {
-  background-image: url('./images/yt.png');
+  background-image: url('../images/yt.png');
   background-size: cover;
   height: 150px;
   width: 150px;
@@ -80,7 +80,7 @@ h1 {
 }
 
 .twitter {
-  background-image: url('./images/T.png');
+  background-image: url('../images/T.png');
   background-size: cover;
   height: 150px;
   width: 150px;
