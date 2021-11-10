@@ -58,34 +58,9 @@ h1 {
   margin-right: auto;
 }
 
-.instagram {
-  background-image: url('../images/R.png');
-  background-size: cover;
+.socialicons {
   height: 150px;
   width: 150px;
-  background-position: center;
-  float: left;
-}
-
-.youtube {
-  background-image: url('../images/yt.png');
-  background-size: cover;
-  height: 150px;
-  width: 150px;
-  background-position: center;
-  float: left;
-}
-
-.twitter {
-  background-image: url('../images/T.png');
-  background-size: cover;
-  height: 150px;
-  width: 150px;
-  background-position: center;
-  float: left;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .test {
