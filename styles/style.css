@@ -1,18 +1,28 @@
 body {
   margin: 0 auto;
-  background-color: rgb(69, 69, 69);
+  background-color: white;
 }
 
 header {
   position: sticky;
   top:0;
-  padding:10px;
-  background-color: black;
+  padding: 0px;
   text-align: center;
 }
 
 .topheader {
-  color: rgb(69, 69, 69);
+  background-color: rgb(69, 69, 69);
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
+.bottomheader {
+  background-color: black;
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: block;
+  margin-top: 0px;
 }
 
 .quote {
@@ -58,9 +68,34 @@ h1 {
   margin-right: auto;
 }
 
-.socialicons {
+.instagram {
+  background-image: url('../images/R.png');
+  background-size: cover;
   height: 150px;
   width: 150px;
+  background-position: center;
+  float: left;
+}
+
+.youtube {
+  background-image: url('../images/yt.png');
+  background-size: cover;
+  height: 150px;
+  width: 150px;
+  background-position: center;
+  float: left;
+}
+
+.twitter {
+  background-image: url('../images/T.png');
+  background-size: cover;
+  height: 150px;
+  width: 150px;
+  background-position: center;
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .test {
