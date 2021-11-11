@@ -131,10 +131,13 @@ h2 {
   margin-right: auto;
 }
 
-.abou
+.about {
+  text-align: center;
+  font-size: 50px;
+  font-family: monospace;
+}
 
 .seder {
- display: inline;
+ text-align: center;
  font-family: monospace;
- color: rgb(144, 107, 166);
 }
