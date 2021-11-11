@@ -1,4 +1,4 @@
-// Random script Jesse copied from the internet
+// Super high tech script Jesse came up with!! (Jackson wouldn't understand)
 var slideIndex = 0;
     showSlides();
         
