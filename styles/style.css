@@ -156,3 +156,8 @@ h2 {
   font-family: monospace;
   color: black;
 }
+
+.gal {
+  margin-left: auto;
+  margin-right: auto;
+}
