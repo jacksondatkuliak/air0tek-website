@@ -26,14 +26,12 @@ header {
 }
 
 .footer {
-  background-color: lightgray;
-  padding: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  background-color: rgb(69, 69, 69);
+  padding: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   display: block;
   margin-top: 0px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .quote {
@@ -81,29 +79,23 @@ h1 {
 }
 
 .instagram {
-  height: 150px;
-  width: 150px;
-  background-position: center;
-  margin-left: auto;
-  margin-right: auto;
+  height: 100px;
+  width: 100px;
   color: aquamarine;
   text-emphasis-color: black;
+  text-align: right;
 }
 
 .youtube {
-  height: 150px;
-  width: 150px;
-  background-position: center;
+  height: 100px;
+  width: 100px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .twitter {
-  height: 150px;
-  width: 150px;
-  background-position: center;
-  margin-left: auto;
-  margin-right: auto;
+  height: 100px;
+  width: 100px;
 }
 
 .test {
