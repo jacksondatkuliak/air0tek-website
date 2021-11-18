@@ -32,6 +32,12 @@ header {
   padding-bottom: 5px;
   display: block;
   margin-top: 0px;
+  text-align: center;
+}
+
+.foot {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .quote {
@@ -44,7 +50,7 @@ header {
 .quotetext {
   color: white;
   font-size: 30px;
-  font-style: italic;
+  font-style: italic;+
   margin-top: auto;
   margin-bottom: auto;
   margin-left: auto;
@@ -78,22 +84,7 @@ h1 {
   margin-right: auto;
 }
 
-.instagram {
-  height: 100px;
-  width: 100px;
-  color: aquamarine;
-  text-emphasis-color: black;
-  text-align: right;
-}
-
-.youtube {
-  height: 100px;
-  width: 100px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.twitter {
+.socials {
   height: 100px;
   width: 100px;
 }
