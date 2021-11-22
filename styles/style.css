@@ -153,27 +153,3 @@ h2 {
   margin-right: auto;
 }
 
-div {
-  /* inset shadow for visual aid only: allow to easily see the div boundaries */
-  box-shadow: 0 0 3px black;
-}
-
-#contentBox {
-  margin: auto;
-  width: 80%;
-  font-size: 60px;
-}
-
-#contentBox .column {
-  float: left;
-  margin-top: 20px;
-  width: 33%;
-  font-family: monospace;
-  text-align: center;
-}
-
-.proj-font {
-  font-size: 40px;
-  font-family: monospace;
-  text-align: center;
-}
