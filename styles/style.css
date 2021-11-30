@@ -49,7 +49,7 @@ header {
 
 .quotetext {
   color: white;
-  font-size: 30px;
+  font-size: 40px;
   font-style: italic;
   margin-top: auto;
   margin-bottom: auto;
@@ -91,7 +91,7 @@ h1 {
 
 .test {
   color: red;
-  padding-top: 2000px;
+  padding-top: 1000px;
   width: 100%;
   font-family: cursive;
   text-align: center;
@@ -151,5 +151,9 @@ h2 {
 .gal {
   margin-left: auto;
   margin-right: auto;
+}
+
+.news {
+  
 }
 
