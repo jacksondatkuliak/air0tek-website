@@ -1,6 +1,7 @@
 div {
     /* inset shadow for visual aid only: allow to easily see the div boundaries */
-    box-shadow: 0 0 3px black;
+    box-shadow: 10px 10px rgb(127, 201, 153);
+    background-color: rgb(69, 69, 69);
   }
   
   #contentBox {
@@ -15,10 +16,12 @@ div {
     width: 33%;
     font-family: monospace;
     text-align: center;
+    color: white;
   }
   
   .proj-font {
     font-size: 40px;
     font-family: monospace;
     text-align: center;
+    color: white;
   }
