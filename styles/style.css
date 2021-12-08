@@ -50,7 +50,7 @@ header {
 }
 
 .quotetext {
-  color: rgb(128, 128, 128);
+  color: white;
   font-size: 25px;
   font-style: italic;
   margin-top: auto;
@@ -151,6 +151,8 @@ h2 {
 }
 
 .bottom {
+  padding-top: 200px;
+  text-align: center;
   padding-top: 500px;
 }
 .about-back {
@@ -172,4 +174,18 @@ h2 {
 
 .camera {
   float: right;
+  width: 30%;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 25px;
+}
+
+.aligncenter {
+  display: inline-block;
+  border-radius: 8px; 
+  width: 33%;
+}
+
+div.picwrapper {
+  text-align: center;
 }
