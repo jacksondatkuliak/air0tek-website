@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  background-color: white;
+  background-color: grey;
 }
 
 header {
@@ -48,7 +48,7 @@ header {
 }
 
 .quotetext {
-  color: white;
+  color: grey;
   font-size: 25px;
   font-style: italic;
   margin-top: auto;
@@ -110,7 +110,7 @@ h2 {
 }
 
 .welcome {
-  background-color: white;
+  background-color: grey;
   display: block;
   margin-left: auto;
   margin-right: auto;
