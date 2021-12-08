@@ -47,16 +47,17 @@ header {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  height: px;
 }
 
 .quotetext {
+  width: 100%;
   color: white;
   font-size: 25px;
   font-style: italic;
-  margin-top: auto;
-  margin-bottom: auto;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 h1 {
