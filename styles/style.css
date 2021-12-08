@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  background-color: rgb(128, 128, 128);
+  background-color: #808080;
 }
 
 header {
@@ -119,6 +119,8 @@ h2 {
 }
 
 .about {
+  padding-right: 100px;
+  padding-left: 100px;
   text-align: center;
   font-size: 32px;
   font-family: monospace;
@@ -132,7 +134,9 @@ h2 {
   padding-right: 25px;
 }
 
-.printerinfo {
+.air0tekinfo {
+  padding-left: 100px;
+  padding-right: 100px;
   text-align: center;
   font-size: 25px;
   font-family: monospace;
