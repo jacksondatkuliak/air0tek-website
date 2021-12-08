@@ -87,7 +87,7 @@ h1 {
 
 .test {
   color: red;
-  padding-top: 1000px;
+  padding-top: 50px;
   width: 100%;
   font-family: cursive;
   text-align: center;
@@ -146,6 +146,9 @@ h2 {
  color: black;
 }
 
+.bottom {
+  padding-top: 500px;
+}
 .about-back {
   background-image: url(../images/aboutback.PNG);
   background-size: cover;
