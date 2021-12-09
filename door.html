@@ -7,11 +7,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Air0Tek</title>
     <link href='./styles/style.css' rel='stylesheet'>
+    <link href='./styles/imageGallery.css' rel='stylesheet'>
     <link rel='icon' href='./images/AIR0TEK_transparent.png'>
 </head>
 
 <body>
     <!-- Begin body of page -->
+
+    <div class="slideshow-container" style='z-index: -1;'>
+        
+        <div class="mySlides fade" style='z-index: -1;''>
+          <div class="numbertext">1 / 3</div>
+          <img src="images/P1010218.JPG" style="width:100%">
+            <div class="text">Jesse Joy Hard At Work On The Air0Tek Website</div>
+          </div>
+                
+          <div class="mySlides fade">
+            <div class="numbertext">2 / 3</div>
+            <img src="images/P1010222.JPG" style="width:100%">
+            <div class="text">Kyle Reynolds Teaching Children About Power Tool Safety</div>
+          </div>
+                
+          <div class="mySlides fade">
+            <div class="numbertext">3 / 3</div>
+            <img src="images/P1010301.JPG" style="width:100%">
+            <div class="text"></div>
+        </div>
+                
+            </div>
+            <br>
+                
+            <div style="text-align:center">
+              <span class="dot"></span> 
+              <span class="dot"></span> 
+              <span class="dot"></span> 
+            </div>
+
+    <!-- cool weather thing i copy pasted from https://weatherwidget.io/ -->
+    <a class="weatherwidget-io" href="https://forecast7.com/en/40d87n82d32/ashland/?unit=us" data-label_1="ASHLAND" data-label_2="WEATHER" data-theme="original" >ASHLAND WEATHER</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script>
 
     <div>
         <img src="./images/cloud.png">
@@ -19,3 +53,6 @@
             Merry Christmas!!
         </h1>
     </div>
+
+    <script src="./scripts/imageSlideshow.js"></script>
+</body>
