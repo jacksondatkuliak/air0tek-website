@@ -159,6 +159,11 @@ h2 {
   background-size: cover;
 }
 
+.background {
+  background-image: url(../images/whiteback.jpg);
+  background-size: cover;
+}
+
 .contact {
   text-align: center;
   font-size: 15px;
