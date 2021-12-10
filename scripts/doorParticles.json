@@ -428,38 +428,24 @@
       "options": {
         "character": {
           "value": [
-            "t",
             "s",
-            "P",
-            "a",
-            "r",
             "t",
-            "i",
-            "c",
-            "l",
             "e",
-            "s"
+            "m"
           ],
-          "font": "Verdana",
+          "font": "Fantasy",
           "style": "",
           "weight": "400",
           "fill": true
         },
         "char": {
           "value": [
-            "t",
             "s",
-            "P",
-            "a",
-            "r",
             "t",
-            "i",
-            "c",
-            "l",
             "e",
-            "s"
+            "m"
           ],
-          "font": "Verdana",
+          "font": "Fantasy",
           "style": "",
           "weight": "400",
           "fill": true

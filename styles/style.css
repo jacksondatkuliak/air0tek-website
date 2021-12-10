@@ -197,3 +197,10 @@ h2 {
 div.picwrapper {
   text-align: center;
 }
+
+.doorText {
+  color: white;
+  font-family: cursive;
+  font-size: 75px;
+  text-shadow: 0 0 10px black;
+}
