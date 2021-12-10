@@ -164,6 +164,11 @@ h2 {
   background-size: cover;
 }
 
+.backgrounddoor {
+  background-image: url(../images/whiteback.jpg);
+  background-size: cover;
+}
+
 .contact {
   text-align: center;
   font-size: 15px;
@@ -187,7 +192,6 @@ h2 {
 .aligncenter {
   display: inline-block;
   border-radius: 8px; 
-  width: 33%;
 }
 
 div.picwrapper {
