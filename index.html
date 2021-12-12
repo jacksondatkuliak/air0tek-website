@@ -8,15 +8,15 @@
     <title>Air0Tek</title>
     <link href='./styles/style.css' rel='stylesheet'>
     <link rel='icon' href='./images/AIR0TEK_transparent.png'>
-    <script src="./scripts/node_modules/tsparticles/tsparticles.min.js"></script>
+    <link href='./styles/tsparticles.css' rel='stylesheet'>
     <script src="./scripts/node_modules/tsparticles/tsparticles.min.js"></script>
     <script src="./scripts/indexParticles.js"></script>
 </head>
 
-<body style="z-index: 1;">
+<body>
     <header>
         <div id="topheader" class="topheader">
-            <a href="./index.html" class="topheader"><img src="images/cloud.png" id="cloud" class='cloud' href="./index.html" title="Air0Tek"></h1></a>
+            <a href="./index.html"><img src="images/cloud.png" id="cloud" class='cloud' href="./index.html" title="Air0Tek"></h1></a>
         </div>
             <h2 class="bottomheader">
             <a href="./projects.html" class='button'>Projects</a>
@@ -24,8 +24,8 @@
             <a href="https://app.asana.com/0/home/1200899021196230" target="_blank" class="button">Asana</a>
         </h2>
     </header>   
-    
     <!-- Begin body of page -->
+    <div id="tsparticles" style="z-index: -1;"></div>
     <div class='picwrapper'>
         <img src="images/P1010218.JPG" class='aligncenter' style='width: 33%'>
         <img src="images/P1010325.JPG" class='aligncenter' style='width: 33%'>
@@ -66,11 +66,5 @@
             <a href="https://www.youtube.com/channel/UChZZ9rpI3t2n-duVlfajYRA"><img src="images/yt.png" class='socials'></a>
         </div>
     </footer>
-
-    <!-- End body of page. Any JS scripts should be inserted below here -->
-    <script src='scripts/quoteGrabber.js'></script>
-    <script src="./scripts/imageSlideshow.js"></script>
-    <script src="./scripts/node_modules/tsparticles/tsparticles.min.js"></script>
-    <script src="./scripts/indexParticles.js"></script>
 </body>
 </html>
