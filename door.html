@@ -51,6 +51,13 @@
     <!-- cool weather thing i copy pasted from https://weatherwidget.io/ -->
     <a class="weatherwidget-io" href="https://forecast7.com/en/40d87n82d32/ashland/?unit=us" data-label_1="ASHLAND" data-label_2="WEATHER" data-theme="original" >ASHLAND WEATHER</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script>
+    
+    <!-- cool date thing i found from https://www.arclab.com/en/kb/htmlcss/display-date-time-javascript-php-ssi.html -->
+    <p class="datetime"><span id="datetime"></span></p>
+    <script>
+    var dt = new Date();
+    document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"/"+ (("0"+dt.getDate()).slice(-2)) +"/"+ (dt.getFullYear()) +" "+ (("0"+dt.getHours()+1).slice(-2)) +":"+ (("0"+dt.getMinutes()+1).slice(-2));
+    </script>
 
     <div>
         <h1 class='doorText'>Merry Christmas!</h1>
