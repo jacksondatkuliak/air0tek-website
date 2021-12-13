@@ -191,20 +191,24 @@ div.picwrapper {
   font-family: 'cursive';
   font-size: 75px;
   text-shadow: 0 0 10px black;
+  padding-top: 100px;
 }
 
 .datetime {
   color: white;
-  font-family: 'cursive';
+  font-family: 'Verdana';
   font-size: 50px;
   text-shadow: 0 0 10px black;
-  text-align: center;
+  padding-left: 100px;
+  float: left;
 }
 
 .datetime2 {
   color: white;
-  font-family: 'cursive';
-  font-size: 40px;
+  font-family: 'Verdana';
+  font-size: large;
+  font-size: 50px;
+  padding-right: 100px;
+  float: right;
   text-shadow: 0 0 10px black;
-  text-align: center;
 }
