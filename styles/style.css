@@ -27,7 +27,7 @@ header {
 }
 
 .footer {
-  background-color: rgb(69, 69, 69);
+  background-color: black;
   padding: 0px;
   padding-top: 0px;
   padding-bottom: 0px;
@@ -42,7 +42,7 @@ header {
 }
 
 .quote {
-  background-color: rgb(69, 69, 69);
+  background-color: black;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -83,6 +83,7 @@ h1 {
   height: 100px;
   width: 100px;
 }
+
 
 .test {
   color: red;
