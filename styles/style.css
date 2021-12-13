@@ -200,3 +200,11 @@ div.picwrapper {
   text-shadow: 0 0 10px black;
   text-align: center;
 }
+
+.datetime2 {
+  color: white;
+  font-family: 'cursive';
+  font-size: 40px;
+  text-shadow: 0 0 10px black;
+  text-align: center;
+}

@@ -54,11 +54,17 @@
     
     <!-- cool date thing i found from https://www.arclab.com/en/kb/htmlcss/display-date-time-javascript-php-ssi.html -->
     <p class="datetime"><span id="datetime"></span></p>
-    <script>
-    var dt = new Date();
-    document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"/"+ (("0"+dt.getDate()).slice(-2)) +"/"+ (dt.getFullYear()) +" "+ (("0"+dt.getHours()+1).slice(-2)) +":"+ (("0"+dt.getMinutes()+1).slice(-2));
-    </script>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
+</script>
 
+<p class="datetime2"><span id="datetime2"></span></p>
+
+<script>
+var dt = new Date();
+document.getElementById("datetime2").innerHTML = dt.toLocaleTimeString();
+</script>
     <div>
         <h1 class='doorText'>Merry Christmas!</h1>
     </div>
