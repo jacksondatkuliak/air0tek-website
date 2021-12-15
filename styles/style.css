@@ -190,11 +190,14 @@ div.picwrapper {
 
 .doorText {
   color: white;
-  font-family: 'cursive';
+  font-family: 'Lucida Handwriting';
   font-size: 75px;
-  text-shadow: 0 0 10px black;
+  text-shadow: -4px 4px 6px #000,
+				  4px 4px 6px #000,
+				  4px -4px 6px #000,
+				  -4px -4px 6px #000;
   padding-top: 175px;
-  padding-bottom: 175px;
+  padding-bottom: px;
 }
 
 .datetime {
