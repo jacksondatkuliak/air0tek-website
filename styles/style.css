@@ -237,3 +237,12 @@ div.picwrapper {
   display: inline-block;
   padding-left: 25px;
 }
+
+.doorSchedule {
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-shadow: 0 0 10px black;
+  font-size: 30px;
+  text-align: center;
+}
