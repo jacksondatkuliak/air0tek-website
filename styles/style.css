@@ -196,7 +196,8 @@ div.picwrapper {
 				  4px 4px 6px #000,
 				  4px -4px 6px #000,
 				  -4px -4px 6px #000;
-  padding-top: 75px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   padding-bottom: px;
 }
 
@@ -228,6 +229,7 @@ div.picwrapper {
   text-shadow: 0 0 10px black;
   font-family: sans-serif;
   display:inline-block;
+  padding-top: 25px;
 }
 
 .instaTag {
