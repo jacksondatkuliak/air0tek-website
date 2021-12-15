@@ -193,7 +193,7 @@ div.picwrapper {
   font-family: 'cursive';
   font-size: 75px;
   text-shadow: 0 0 10px black;
-  padding-top: 100px;
+  padding-top: 200px;
 }
 
 .datetime {
@@ -213,4 +213,9 @@ div.picwrapper {
   padding-right: 100px;
   float: right;
   text-shadow: 0 0 10px black;
+}
+
+.doorFeed {
+  padding-left: 100px;
+  padding-right: 100px;
 }
