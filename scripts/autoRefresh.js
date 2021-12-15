@@ -7,7 +7,6 @@ function refreshTimeout() {
 
 function reload() {
     location.reload();
-    console.log("is this script running?")
     refreshTimeout();
 }
 
