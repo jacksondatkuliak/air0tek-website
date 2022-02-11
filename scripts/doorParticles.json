@@ -1,6 +1,6 @@
-{
+{ 
   "autoPlay": true,
-  "background":{"color":{"value":"#0d47a1"},"image":"linear-gradient(90deg, #00DBDE 0%,  #FC00FF  100%)"},
+  "background":{"color":{"value":"#0d47a1"},"image":"linear-gradient(90deg, #7e00de 0%,  #FC00FF  100%)"},
   "backgroundMask": {
     "composite": "destination-out",
     "cover": {
