@@ -196,7 +196,7 @@ div.picwrapper {
 
 .doorText {
   color: white;
-  font-family: 'cursive';
+  font-family: Ubuntu, 'monospace';
   font-size: 50px;
   text-shadow: -4px 4px 6px #000,
 				  4px 4px 6px #000,
