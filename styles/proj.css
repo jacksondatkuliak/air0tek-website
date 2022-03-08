@@ -1,6 +1,6 @@
 div {
-    /* inset shadow for visual aid only: allow to easily see the div boundaries */
-    box-shadow: 10px 10px rgb(127, 201, 153);
+    /* inset shadow for visual aid only: allow to easily see the div boundaries 
+    box-shadow: 00px 0px 10px rgb(185, 0, 209); */
     background-color: rgb(69, 69, 69);
   }
   
